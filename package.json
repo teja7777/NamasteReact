@@ -1,0 +1,25 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teja7777/NamasteReact.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Teja Ulisetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teja7777/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/teja7777/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
